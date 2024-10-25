@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-10-CSPARQL
 excerpt: 'R. Ferreira, C. Lopes, R. Gonçalves, M. Knorr, L. Krippahl, and J. Leite. &quot;Deep neural networks for approximating stream reasoning with C-SPARQL.&quot; <i>Progress in Artificial Intelligence: 20th EPIA Conference on Artificial Intelligence, EPIA 2021,</i>. Springer, 2021, pp. 338-350, 2021'
-date: 2021-10
+date: 2021-09-07
 venue: '20th EPIA Conference on Artificial Intelligence (EPIA 2021)'
 slidesurl: ''
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-86230-5_27'
