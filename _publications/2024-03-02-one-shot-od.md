@@ -5,7 +5,7 @@ permalink: /publication/2024-03-02-one-shot-od
 excerpt: ''
 date: 2024-03-02
 paperurl: ''
-citation: 'R. Ferreira, M. Guimar˜aes, F. Valdeira, and C. Soares, “One-shot Initial Orbit Determination in Low-Earth Orbit", 2024 IEEE Aerospace Conference. IEEE, pp. 1–11, 2024'
+citation: 'R. Ferreira, M. Guimarães, F. Valdeira, and C. Soares, “One-shot Initial Orbit Determination in Low-Earth Orbit", 2024 IEEE Aerospace Conference. IEEE, pp. 1–11, 2024'
 paperoglink: 'https://ieeexplore.ieee.org/abstract/document/10521177'
 ---
 
