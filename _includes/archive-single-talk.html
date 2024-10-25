@@ -23,8 +23,6 @@
       {% endif %}
     </h2>
 	
-	
-	
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -46,13 +44,11 @@
     {% endif %}
 
 
-	{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
 
 
-	{% if post.talklink %}<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.talklink }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Watch this presentation!</a>  </p>{% endif %}
-	{% if post.talkpaper %}<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.talkpaper }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Related paper </a>  </p>{% endif %}
+    {% if post.talklink %}<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.talklink }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Watch this presentation!</a>  </p>{% endif %}
+    {% if post.talkpaper %}<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.talkpaper }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Related paper </a>  </p>{% endif %}
 
-
-	
   </article>
 </div>
