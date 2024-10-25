@@ -1,9 +1,9 @@
 ---
 title: "Generalizing Trilateration: Approximate Maximum Likelihood Estimator for Initial Orbit Determination in Low-Earth Orbit"
 collection: publications
-permalink: /publication/2024-03-02-generalizing-trilateration
+permalink: /publication/2024-07-21-generalizing-trilateration
 excerpt: ''
-date: 2024-03-02
+date: 2024-07-21
 paperurl: ''
 citation: 'R. Ferreira, F. Valdeira, M. Guimarães, and C. Soares, “Generalizing Trilateration: Approximate Maximum Likelihood Estimator for Initial Orbit Determination in Low-Earth Orbit", Pre-print, 2024'
 paperoglink: 'https://arxiv.org/abs/2407.15180'
