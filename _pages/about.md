@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Computer Science at [NOVA School of Science and Technology](https://www.fct.unl.pt/en). I received my B.Sc. and M.Sc. degree in Computer Science from NOVA School of Science and Technology. My research interests include Machine Learning, Optimization and Probability Theory, and I have been working mostly on robust solutions for satellite collision avoidance.
+I am a PhD Student in Computer Science at [NOVA School of Science and Technology](https://www.fct.unl.pt/en). I received my B.Sc. and M.Sc. degree in Computer Science from NOVA School of Science and Technology. My research interests include Machine Learning, Online Convex Optimization, and I have been working mostly on robust and efficient solutions for space applications.
